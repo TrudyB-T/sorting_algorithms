@@ -1,1 +1,1 @@
-Sorting algorithms and Big O
+Sorting algorithms and Big O project 
